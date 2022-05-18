@@ -13,7 +13,7 @@ def setup():
     start_time = time.time()
     
     # Change FILE_NAME if necessary.
-    FILE_NAME = 'square.png'
+    FILE_NAME = '3.png'
     # Set this to False if the loaded image is already properly formatted.
     # See block comment of preprocessImage() to know what "properly formatted" 
     # means.
